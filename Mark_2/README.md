@@ -98,7 +98,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 * With this versoin (M2) we unfortunately only have one frame size, so this headset will not fit most heads, even with the spacers and springs.
 * Before printing, make sure to re-orient the frame STLs so the flat sides of the model are on the platform.
 
-## Photos Ultracortex M2
+## Photos of Ultracortex M2
 
 ![image](Assets/UC.png)
 ![image](Assets/UC_front.JPG)
