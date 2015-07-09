@@ -96,6 +96,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 * Most of the tolerances between pieces are too tight, so assembly requires substantial filing and sanding.
 * The "M2_Electrode Spacer_01" part is used to adjust for different head shapes and sizes
 * With this versoin (M2) we unfortunately only have one frame size, so this headset will not fit most heads, even with the spacers and springs.
+* Before printing, make sure to re-orient the frame STLs so the flat sides of the model are on the platform.
 
 ## Photos of Assembled Ultracortex M2
 
@@ -104,6 +105,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 ![image](Assets/UC_top.JPG)
 ![image](Assets/quadrants.png)
 ![image](Assets/MakerBot_Screenshot2.png)
+![image](Assets/sketch.JPG)
 
 
 
