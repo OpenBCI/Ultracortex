@@ -103,7 +103,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 ![image](Assets/UC.png)
 ![image](Assets/UC_front.JPG)
 ![image](Assets/UC_top.JPG)
-![image](Assets/quadrants.png)
+![image](Assets/Quadrants.png)
 ![image](Assets/MakerBot_Screenshot2.png)
 ![image](Assets/sketch.JPG)
 
