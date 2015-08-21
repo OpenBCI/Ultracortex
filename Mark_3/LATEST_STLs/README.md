@@ -10,4 +10,4 @@ This directory contains the latest suggested 3D-printable STLs for all pieces of
 - FRONT (x1)
 - BACK (x1)
 
-For more information on headset printing & assembly, go back to the Mark_3 directory.
+For more information on headset printing & assembly, go back to the [Mark_3 directory](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3).
