@@ -1,0 +1,7 @@
+#improvements to M3f
+
+I tried scaling the bolt to .98 in X and Z axis, because the tolerance between the spring casing and inside bolt is more than enough, and the screw is still a tad tight in the thread twist
+
+For some reason all of the faces are reveresed on the polygon when I import into Maya, and the modeled is always scaled 10x. I reverse the faces, scale down, change the object so it is pointed up with the z-axis vertical, then re-export. They then import nicely in Makerware.
+
+I also created the FINAL_PARTS directory on Github, where I'll be storing the latest STLs for printing.
