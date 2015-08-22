@@ -85,6 +85,11 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 * wire cutters
 * needle-nose pliers
 
+## Assembly Instructions:
+
+(coming soon)
+
+
 
 
 
