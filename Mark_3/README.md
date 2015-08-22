@@ -93,6 +93,8 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 
 (coming soon)
 
+For questions about assembly, contact conor [at] openbci [dot] com
+
 
 
 
