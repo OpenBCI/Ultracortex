@@ -9,6 +9,27 @@ Designers & Engineers:
 
 We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for their generous support in the Ultracortex Mark3 development process!
 
+
+### THE COMPLETE HEADSET
+
+Consists of:
+
+* [FRAME_FRONT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/FRAME_FRONT.stl) (x1) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/FRAME_FRONT.stl)
+* [FRAME_BACK](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/FRAME_BACK.stl) (x1) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/FRAME_BACK.stl)
+* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/OCTANUT_MODIFIED_99innerThread.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/OCTANUT_MODIFIED_99innerThread.stl)
+* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/BOLT.stl) (x21) — [. STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/BOLT.stl)
+* [SPRING_CASING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/SPRING_CASING_modified.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/SPRING_CASING_modified.stl)
+* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/ELECTRODE_HOLDER.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/ELECTRODE_HOLDER.stl)
+* Suggested Spring listed below (x21)
+* Suggested Nut listed below (x42)
+* Suggested Bolt listed below (x21)
+
+![image](image_assets/FRAME.jpg) 
+![image](image_assets/MechParts.jpg) 
+
+
+
+
 ###SPRINGS, NUTS, & BOLTS
 
 #####Suggested Spring: 
@@ -35,8 +56,6 @@ FRONT & BACK
 
 
 MechParts (OCTANUT // BOLT // SPRING_CASING // ELECTRODE_HOLDER)
-
-![image](image_assets/MechParts.jpg)
 
 * Material: PLA
 * Supports: NO
