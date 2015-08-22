@@ -27,14 +27,14 @@ Consists of:
 	* Suggested Nut listed below (x42)
 	* Suggested Bolt listed below (x21)
 	* Screws for 
-* Wiring (we strip appart electrodes from the Electrode Starter Kit)
+* Wiring (we strip appart electrodes from the [Electrode Starter Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit)) or from the Touch-Proof Connector cable that comes with an [OpenBCI Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit)
 * Electrodes by Florida Research Instruments
 	* (18x) Dry (spikey) electrodes to be installed in Ultracortex nodes with hair: [Disposable / Reusable Dry EEG Electrode ($0.60 each at 50+ quantity purchase) ](http://fri-fl-shop.com/product/tde-200/)
 	* (3x) Dry (non-spikey) electrodes to be installed in Ultracortex nodes without hair (forehead, for instance): [Disposable / Reusable Cup Wet/Dry EEG Electrode ($10.00 for 15) ](http://fri-fl-shop.com/product/disposable-reusable-dry-eeg-electrode-quantity-of-15-tde-200a1/)
 	* (2x) Ear Clip electrode (for reference): [TDI-430 Silver-Silver Chloride Ear Clip Electrode ($19.95 each)](http://fri-fl-shop.com/product/td-430-silver-disc-electrode-ear-clip/)
 * An [OpenBCI Bio-sensing Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit)
 * Lithium Ion Rechargeable Battery Pack (~500mAh) — [Sparkfun](https://www.sparkfun.com/products/10718) or [Adafruit](http://www.adafruit.com/products/1578)
-* A Charger for your battery pack
+* [A charger for your battery pack](https://www.adafruit.com/products/1304)
 
 ![image](image_assets/FRAME.jpg) 
 ![image](image_assets/MechParts.jpg) 
