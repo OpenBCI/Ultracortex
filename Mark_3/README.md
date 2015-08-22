@@ -26,8 +26,8 @@ Consists of:
 	* Suggested Spring listed below (x21)
 	* Suggested Nut listed below (x42)
 	* Suggested Bolt listed below (x21)
-	* Screws for 
-* Wiring (we strip appart electrodes from the [Electrode Starter Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit)) or from the Touch-Proof Connector cable that comes with an [OpenBCI Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit)
+	* 1/4" #4 Machine Screw listed below (x4) for mounting the OpenBCI Board
+* Wiring (ideally 21... 1 for each node) — we strip apart electrodes from the [Electrode Starter Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit)) or from the Touch-Proof Connector cable that comes with an [OpenBCI Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit)
 * Electrodes by Florida Research Instruments
 	* (18x) Dry (spikey) electrodes to be installed in Ultracortex nodes with hair: [Disposable / Reusable Dry EEG Electrode ($0.60 each at 50+ quantity purchase) ](http://fri-fl-shop.com/product/tde-200/)
 	* (3x) Dry (non-spikey) electrodes to be installed in Ultracortex nodes without hair (forehead, for instance): [Disposable / Reusable Cup Wet/Dry EEG Electrode ($10.00 for 15) ](http://fri-fl-shop.com/product/disposable-reusable-dry-eeg-electrode-quantity-of-15-tde-200a1/)
@@ -39,10 +39,10 @@ Consists of:
 ![image](image_assets/FRAME.jpg) 
 ![image](image_assets/MechParts.jpg) 
 
-###Additional Hardware (Springs, Nuts, & Bolts)
+###Additional Hardware (Springs, Nuts, Bolts, & Screws)
 
 #####Suggested Springs: 
-[Century Spring Corp. Stock #: U-4](http://www.centuryspring.com/Store/globalresults.php)
+* (21x) [Century Spring Corp. Stock #: U-4](http://www.centuryspring.com/Store/globalresults.php)
 
 ![image](image_assets/SPRING.jpg)
 
@@ -50,10 +50,14 @@ Consists of:
 
 We use small stainless steel screws and hex nuts to fasten the FRI electrodes (listed above) to the 3D-printed electrode mount components &  wiring that connects the electrodes back to the OpenBCI board. We used stripped [Electrode Starter Kit (ESK)](https://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit) electrodes as the cabling, by removing the gold cup with a wire cutter and looping the exposed wire around the screw between the two tightened hex nuts (as seen in the picture below).
 
-* [Stainless Steel Pan Head Phillips Machine Screw, 2-56 Thread, 3/8" Length ($5.70 per pack of 50)](http://www.mcmaster.com/#91735a017/=xzahfj)
-* [Stainless Steel Hex Nut, 2-56 Thread Size, 3/16" Wide, 1/16" High](http://www.mcmaster.com/#91841a003/=xzahv0)
+* (21x) [Stainless Steel Pan Head Phillips Machine Screw, 2-56 Thread, 3/8" Length ($5.70 per pack of 50)](http://www.mcmaster.com/#91735a017/=xzahfj)
+* (42x) [Stainless Steel Hex Nut, 2-56 Thread Size, 3/16" Wide, 1/16" High](http://www.mcmaster.com/#91841a003/=xzahv0)
 
 ![image](image_assets/FastenElectrode.jpg)
+
+#####Suggested Screws for OpenBCI Board Mounting
+
+* (4x) [#4 Machine Screw](https://www.pololu.com/product/1960)
 
 ## PRINT SETTINGS
 
