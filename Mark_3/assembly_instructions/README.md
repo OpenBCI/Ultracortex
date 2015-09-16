@@ -24,7 +24,7 @@
 
 ### Identify electrode locations
 
-![image](image_assets/SELECT_LOCATION.JPG)
+![image](image_assets/SELECT_LOCATION.jpg)
 ![image](image_assets/OpenBCI_Electrodes.png)
 
 ### Assemble electrode mounts (x8 or x16)
