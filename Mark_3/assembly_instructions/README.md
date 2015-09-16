@@ -24,7 +24,8 @@
 
 ### Identify electrode locations
 
-![image](image_assets/cleanup3.JPG)
+![image](image_assets/SELECT_LOCATION.JPG)
+![image](image_assets/OpenBCI_Electrodes.png)
 
 ### Assemble electrode mounts (x8 or x16)
 **Note:** repeat this step as many times as necessary, depending upon your OpenBCI setup. You may want to make additional electrode  and keep them 
