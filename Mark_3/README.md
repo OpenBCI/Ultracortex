@@ -1,5 +1,5 @@
 #Ultracortex Mark3
-(July 2015-August 2015)
+(July 2015 — September 2015)
 
 Designers & Engineers:
 
@@ -15,13 +15,13 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 Consists of:
 
 * FRAME
-	* [FRAME_FRONT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/FRAME_FRONT.stl) (x1) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/FRAME_FRONT.stl)
-	* [FRAME_BACK](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/FRAME_BACK.stl) (x1) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/FRAME_BACK.stl)
-* MechParts
-	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/OCTANUT_MODIFIED_99innerThread.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/OCTANUT_MODIFIED_99innerThread.stl)
-	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/BOLT.stl) (x21) — [. STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/BOLT.stl)
-	* [SPRING_CASING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/SPRING_CASING_modified.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/SPRING_CASING_modified.stl)
-	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/LATEST_STLs/ELECTRODE_HOLDER.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/LATEST_STLs/ELECTRODE_HOLDER.stl)
+	* FRAME_FRONT (x1) — [small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl)
+	* FRAME_BACK (x1) — [small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl)
+* MECH_PARTS
+	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl)
+	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl)
+	* [SPRING_CASING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl)
+	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl) (x21) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl)
 * Additional Hardware:
 	* Suggested Spring listed below (x21)
 	* Suggested Nut listed below (x42)
@@ -91,9 +91,72 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 
 ## Assembly Instructions:
 
-(coming soon)
+### Parts & Tools
 
-For questions about assembly, contact conor [at] openbci [dot] com
+
+
+### Remove residual support material & print flaws
+
+![image](image_assets/cleanup1.JPG)
+![image](image_assets/cleanup2.JPG)
+![image](image_assets/cleanup3.JPG)
+
+### Glue the FRAME together
+
+![image](image_assets/glueFrame.JPG)
+
+### Mount the OpenBCI BOARD_HOLDER
+
+![image](image_assets/boardMount.JPG)
+
+### Insert OCTANUT pieces (x21) into frame
+
+![image](image_assets/insertOCTANUT.JPG)
+
+### Identify electrode locations
+
+![image](image_assets/SELECT_LOCATION.jpg)
+![image](image_assets/OpenBCI_Electrodes.png)
+
+### Assemble electrode mounts (x8 or x16)
+**Note:** repeat this step as many times as necessary, depending upon your OpenBCI setup. You may want to make additional electrode  and keep them 
+
+![image](image_assets/Hardware_Parts.JPG)
+![image](image_assets/MechParts.JPG)
+![image](image_assets/insertTrode.JPG)
+![image](image_assets/fastenNut1.JPG)
+![image](image_assets/twistWire.JPG)
+![image](image_assets/twistWire2.JPG)
+![image](image_assets/fastenNut2.JPG)
+![image](image_assets/connectCasing.JPG)
+![image](image_assets/glue.JPG)
+![image](image_assets/glueCasing.JPG)
+![image](image_assets/sand.JPG)
+![image](image_assets/fullPart.JPG)
+![image](image_assets/completedPart.JPG)
+![image](image_assets/MechParts.gif)
+
+### Insert electrode mounts into headset
+
+
+
+### Embed OpenBCI into the Ultracortex
+
+
+
+### Connect electrodes to OpenBCI
+
+
+
+### Fasten the BOARD_COVER
+
+
+
+### Adjust the Ultracortex for your head
+
+
+
+### Examine your brain waves!
 
 
 
