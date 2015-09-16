@@ -46,7 +46,7 @@ Non-printed parts:
 
 ####FRAME
 
-![image](image_assets/FRAME_parts.JPG) 
+![image](image_assets/FRAME_parts.jpg) 
 
 ####MECH_PARTS
 
