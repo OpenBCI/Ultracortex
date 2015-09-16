@@ -186,7 +186,7 @@ Use the #4 Drive Screws to mount the BOARD_HOLDER to the FRAME
 
 **Note:** at each node, you must line up the cut in the OCTANUT with the indentation on the frame as indicated in the picture below.
 
-![image](image_assets/insertOCTANUT.jpg)
+![image](image_assets/insertOCTANUT.JPG)
 
 Your Ultracortex should now look like this:
 
@@ -194,24 +194,53 @@ Your Ultracortex should now look like this:
 
 ### Identify electrode locations
 
-![image](image_assets/SELECT_LOCATION.jpg)
-![image](image_assets/OpenBCI_Electrodes.png)
+Before creating your electrode mounts, it's a good idea to think about where you may want to place the electrodes on the Ultracortex FRAME. The placement of the electrode may affect how long you make the wire between the electrode and where the OpenBCI is mounted, at the back of the frame.
+
+The images below indicates the default 10-20 electrode locations that the OpenBCI Graphical User Interface expects. This application is great for viewing/recording your EEG and can be found in our [OpenBCI_Processing](http://) repo. The blue nodes indicate the 8 default 10-20 locations (channels 1-8) of the 32bit Board. The red nodes indicate the default 10-20 locations of channels 9-16 when using the OpenBCI 16-channel R&D Kit. 
+
+![image](image_assets/1020.jpg)
 
 ### Assemble electrode mounts (x8 or x16)
-**Note:** repeat this step as many times as necessary, depending upon your OpenBCI setup. You may want to make additional electrode  and keep them 
+**Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort.
 
+These are the pieces that comprise one full electrode unit:
 ![image](image_assets/Hardware_Parts.JPG)
+
+First, slide a **Machine Screw (2-56 Thread, 3/8" Length)** through the FRI electrode and guide it into the ELECTRODE_HOLDER.
 ![image](image_assets/insertTrode.JPG)
+
+Then, twist your first **Hex Nut (2-56 Thread Size, 3/16" Wide, 1/16" High)** onto the screw, securing the electrode to the holder.
 ![image](image_assets/fastenNut1.JPG)
+
+Next, twist the exposed metal of your wire so that it is tight and clean.
 ![image](image_assets/twistWire.JPG)
+
+This part is a little bit tricky! Wrap the exposed metal of your wire around the remaining thread of the screw. You can use your finger nail to pinch the wire down against the nut, while wrapping.
 ![image](image_assets/twistWire2.JPG)
+
+Then, twist your second Hex Nut onto the screw, securing the wire between the two nuts. You can use wire cutters to firmly screw the nut into place.
 ![image](image_assets/fastenNut2.JPG)
+
+Slip the SPRING_CASING around the wire, as shown below:
 ![image](image_assets/connectCasing.JPG)
+
+Put a thin line of super glue on the outer edge of the top of the ELECTRODE_HOLDER.
 ![image](image_assets/glue.JPG)
+
+Press the SPRING_CASING against the ELECTRODE_HOLDER and hold for a few seconds to make sure the two pieces are securely connected.
 ![image](image_assets/glueCasing.JPG)
+
+Now sand around the seam between the ELECTRODE_HOLDER and SPRING_CASING. Try your best to make the full cylindar as smooth as possible. You don't want it to catch on the inside of the OCTABOLT.
 ![image](image_assets/sand.JPG)
+
+Slide your spring and then the OCTABOLT around the wire as shown below.
 ![image](image_assets/fullPart.JPG)
+
+Snap the full electrode unit together, guiding the semi-spherical protrusions on the outside of the SPRING_CASING into the relief cuts of the OCTABOLT. 
 ![image](image_assets/completedPart.JPG)
+
+Voila! Spring-loaded electrode GIF!
+
 ![image](image_assets/MechParts.gif)
 
 ### Insert electrode mounts into headset
