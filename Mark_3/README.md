@@ -192,13 +192,56 @@ Your Ultracortex should now look like this:
 
 ![image](image_assets/nodes_in.JPG)
 
+### Embed OpenBCI into the Ultracortex
+
+Connect your ~500 mAh lithium ion rechargeable batter to the back of your 32bit OpenBCI Board. Then fold the battery and its wires neatly behind the board before inserting the board into the BOARD_MOUNT. You can then use one of your #4 Drive Screws to secure the OpenBCI Board to the BOARD_MOUNT. Typically you don't need to use any #4 Drive Screws because the BOARD_COVER locks the OpenBCI Board in place, but in this case it's a good idea because you'll want to see where you're connecting your wires.
+
+![image](image_assets/embed_OpenBCI.jpg)
+
 ### Identify electrode locations
 
 Before creating your electrode mounts, it's a good idea to think about where you may want to place the electrodes on the Ultracortex FRAME. The placement of the electrode may affect how long you make the wire between the electrode and where the OpenBCI is mounted, at the back of the frame.
 
 The images below indicates the default 10-20 electrode locations that the OpenBCI Graphical User Interface expects. This application is great for viewing/recording your EEG and can be found in our [OpenBCI_Processing](http://) repo. The blue nodes indicate the 8 default 10-20 locations (channels 1-8) of the 32bit Board. The red nodes indicate the default 10-20 locations of channels 9-16 when using the OpenBCI 16-channel R&D Kit. 
 
+For the remainder of this tutorial, the blue nodes on the 10-20 system diagram (channels 1-8 of the OpenBCI default settings) will be used. The channel to 10-20 system correlations are as follows:
+
+* Channel 1 - Fp1
+* Channel 2 - Fp2
+* Channel 3 - C3
+* Channel 4 - C4
+* Channel 5 - P7
+* Channel 6 - P8
+* Channel 7 - O1
+* Channel 8 - O2
+
 ![image](image_assets/1020.jpg)
+
+### Connect wiring to OpenBCI
+
+Before shortening any of your wires, connect the female header of each wire to the N pin of channels 1-8, as indicated in the image to the lower right. The N pins are the ones closer to the OpenBCI Board. The OpenBCI Board defaultly references these 8 pins with the SRB 1 pin (the bottom SRB pin).
+
+![image](image_assets/CONNECT_WIRES.jpg)
+
+### Measure, cut, and strip wires
+
+For each wire, measure the distance between where it is connected to the OpenBCI Board and the node that it will terminate at on the Ultracortex frame. Give yourself 2-3 inches of slack (extra length), because you're going to strip the end of the wire, and you may want the extra slack to zip-tie/tape the wiring to the frame later on.
+
+As mentioned above, if you're using the default OpenBCI electrode configuration, cut the wires so that they terminate at the following nodes:
+
+* Channel 1 - Fp1
+* Channel 2 - Fp2
+* Channel 3 - C3
+* Channel 4 - C4
+* Channel 5 - P7
+* Channel 6 - P8
+* Channel 7 - O1
+* Channel 8 - O2
+
+After you're done measuring, cutting, and stripping your wires, disconnect them from the OpenBCI board. You will need the female header free so you can guide the springs and OCTANUT pieces into place in the following step. But remember which wire goes where!
+
+
+![image](image_assets/STRIP_WIRE.jpg)
 
 ### Assemble electrode mounts (x8 or x16)
 **Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort.
@@ -243,21 +286,17 @@ Voila! Spring-loaded electrode GIF!
 
 ![image](image_assets/MechParts.gif)
 
-### Insert electrode mounts into headset
+### Insert electrode units into your Ultracortex
 
+Once you've asesembled all of your electrode units, twist them into their respective Ultracortex frame nodes. If the parts are tough to twist into place by hand, use the OCTATOOL that comes with your kit as shown in the picture below. Over time the resistance between the OCTANUT and OCTABOLT will diminish, and the pieces will twist into place more easily.
 
+![image](image_assets/INSERT_ELECTRODES.jpg)
 
-### Embed OpenBCI into the Ultracortex
+### Reconnect wires to OpenBCI & connect ear clip electrodes (Reference & Ground)
 
+![image](image_assets/RECONNECT_WIRES.jpg)
 
-
-### Connect electrodes to OpenBCI
-
-
-
-### Connect Ear Clip Electrodes
-
-
+![image](image_assets/REF_BIAS.jpg)
 
 ### Fasten the BOARD_COVER
 
