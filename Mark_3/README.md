@@ -7,7 +7,7 @@ The Ultracortex is an open-source, 3D-printable headset intended to work with th
 
 Designers & Engineers:
 
-* [Aaron Trocolla (aka Threeform)](http://threeformfashion.com/)
+* [Aaron Trocola (aka Threeform)](http://threeformfashion.com/)
 * [Conor Russomanno](https://twitter.com/russomanno15)
 * [Joel Murphy (aka SafeForRobots)](https://twitter.com/safeforrobots)
 
@@ -15,11 +15,11 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 
 ## THE COMPLETE ULTRACORTEX
 
-**Note:** the part quantities listed below assume you are making an electrode holder for all 21 nodes of the Ultracortex Mark 3. In reality, you will likely have only 8 or 16 electrodes, depending on whether you are working with the [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) (8 channels) or the [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit) (16 channels). You may only want to create as many electrode units as you have channels, and then add more as necessary. In general, more electrodes will distribute the downware scalp pressure, increasing comfort.
+**Note:** the part quantities listed below assume you are making an electrode holder for all 21 nodes of the Ultracortex Mark 3. In reality, you will likely have only 8 or 16 electrodes, depending on whether you are working with the [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) (8 channels) or the [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit) (16 channels). You may only want to create as many electrode units as you have channels, and then add more as necessary. In general, more electrodes will distribute the downward scalp pressure, increasing comfort.
 
 ###3D-printed Parts:
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 52-56cm; medium = 56-60cm; large = 60-64cm)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
 * [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/MECH_PARTS)
@@ -48,6 +48,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 * (**1x**) An [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) or an [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit)
 * (**1x**) Lithium Ion Rechargeable Battery Pack (~500mAh) — [Sparkfun](https://www.sparkfun.com/products/10718) or [Adafruit](http://www.adafruit.com/products/1578)
 * (**1x**) [A charger for your battery pack](https://www.adafruit.com/products/1304)
+* (**~10x**) [Zip tie](http://www.amazon.com/Black-Zip-Tie-100-Bag/dp/B0001IMMJI)
 
 ## THE COMPLETE ULTRACORTEX (w/ PICTURES)
 
@@ -55,7 +56,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 
 ####(1x) FRAME
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 52-56cm; medium = 56-60cm; large = 60-64cm)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
 
@@ -84,6 +85,8 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl)
 
 ![image](image_assets/BOARD_COVER.jpg) 
+
+![image](image_assets/printedParts.jpg)
 
 ###Non-printed Parts:
 
@@ -128,6 +131,10 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 ####(**1x**) ~500mAh lithium ion rechargeable battery pack ([Sparkfun](https://www.sparkfun.com/products/10718) or [Adafruit](http://www.adafruit.com/products/1578)) & (**1x**) [A charger for your battery pack](https://www.adafruit.com/products/1304)
 
 ![image](image_assets/BATTERY.jpg)
+
+#### (**~10x**) [Zip tie](http://www.amazon.com/Black-Zip-Tie-100-Bag/dp/B0001IMMJI)
+
+![image](image_assets/zipTie.png)
 
 
 ## SUGGESTED PRINT SETTINGS
@@ -231,7 +238,7 @@ For the remainder of this tutorial, the blue nodes on the 10-20 system diagram (
 
 ### Connect wiring to OpenBCI
 
-Before shortening any of your wires, connect the female header of each wire to the N pin of channels 1-8, as indicated in the image to the lower right. The N pins are the ones closer to the OpenBCI Board. The OpenBCI Board defaultly references these 8 pins with the SRB 1 pin (the bottom SRB pin).
+Before shortening any of your wires, connect the female header of each wire to the N pin of channels 1-8, as indicated in the image to the lower right. The N pins are the ones closer to the OpenBCI Board. By default, the OpenBCI Board references these 8 pins with the SRB 1 pin (the bottom SRB pin).
 
 ![image](image_assets/CONNECT_WIRES.jpg)
 
@@ -256,7 +263,7 @@ After you're done measuring, cutting, and stripping your wires, disconnect them 
 ![image](image_assets/STRIP_WIRE.jpg)
 
 ### Assemble electrode mounts (x8 or x16)
-**Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort.
+**Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort. Additionally, to increase comfort you can create electrode units without electrodes and the wires to place at various nodes around the frame. This will also help to distribute  pressure.
 
 These are the pieces that comprise one full electrode unit:
 ![image](image_assets/Hardware_Parts.JPG)
