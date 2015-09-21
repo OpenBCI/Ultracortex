@@ -1,6 +1,8 @@
 #Ultracortex Mark3
 *Development Period: July 2015 — September 2015*
 
+![image](../Mark3.jpg)
+
 The Ultracortex is an open-source, 3D-printable headset intended to work with the [OpenBCI system](http://openbci.com/). It is capable of recording research-grade brain activity (EEG), muscle activity (EMG), and heart activity (ECG). The Ultracortex is under constant iteration. If you print/assemble your own Ultracortex, we would love to hear your feedback. Send us an email at [contact@openbci.com](mailto:contact@openbci.com) or Tweet at us ([@Ultracortex](https://twitter.com/Ultracortex) & [@OpenBCI](https://twitter.com/OpenBCI))!
 
 Designers & Engineers:
@@ -17,7 +19,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 
 ###3D-printed Parts:
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 48-54cm; medium = 52-58cm; large = 56-62cm)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 52-56cm; medium = 56-60cm; large = 60-64cm)
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
 * [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/MECH_PARTS)
@@ -53,7 +55,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 
 ####(1x) FRAME
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 48-54cm; medium = 52-58cm; large = 56-62cm)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumfrence: small = 52-56cm; medium = 56-60cm; large = 60-64cm)
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
 
@@ -128,7 +130,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 ![image](image_assets/BATTERY.jpg)
 
 
-## PRINT SETTINGS
+## SUGGESTED PRINT SETTINGS
 
 * FRAME_FRONT & FRAME_BACK
 	* Material: PLA
@@ -139,6 +141,14 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 	* Number of Shells: 3
 	* Speed while extruding: 50-70% (slow it down if possible; these parts are detailed)
 * MECH_PARTS (OCTANUT / BOLT / SPRING_CASING / ELECTRODE_HOLDER)
+	* Material: PLA
+	* Supports: NO
+	* Raft: NO
+	* Infill: 20%
+	* Layer Height: 0.2mm
+	* Number of Shells: 3
+	* Speed while extruding: 50-70% (slow it down if possible; these parts are detailed)
+* BOARD_MOUNT, BOARD_COVER_STANDARD, & BOARD_COVER_ADVANCED
 	* Material: PLA
 	* Supports: NO
 	* Raft: NO
@@ -201,6 +211,8 @@ Connect your ~500 mAh lithium ion rechargeable batter to the back of your 32bit 
 ### Identify electrode locations
 
 Before creating your electrode mounts, it's a good idea to think about where you may want to place the electrodes on the Ultracortex FRAME. The placement of the electrode may affect how long you make the wire between the electrode and where the OpenBCI is mounted, at the back of the frame.
+
+The Ultracortex node locations are based on the [10-20 system](https://goo.gl/gSwYw), which is the internationally accepted standard for electrode placement in the context of EEG.
 
 The images below indicates the default 10-20 electrode locations that the OpenBCI Graphical User Interface expects. This application is great for viewing/recording your EEG and can be found in our [OpenBCI_Processing](http://) repo. The blue nodes indicate the 8 default 10-20 locations (channels 1-8) of the 32bit Board. The red nodes indicate the default 10-20 locations of channels 9-16 when using the OpenBCI 16-channel R&D Kit. 
 
@@ -294,21 +306,43 @@ Once you've asesembled all of your electrode units, twist them into their respec
 
 ### Reconnect wires to OpenBCI & connect ear clip electrodes (Reference & Ground)
 
+Now that all of your electrode units are connected to your Ultracortex frame, reconnect the electrode wires to the OpenBCI board as detailed above. If you have some handy, you may want to use zip ties to secure the loose wiring to the Ultracortex frame. Later revisions of the headset will be designed to account for this. ;)
+
 ![image](image_assets/RECONNECT_WIRES.jpg)
+
+Next, connect two touch-proof adapter cables to SRB1 and bottom BIAS pin (white and black respectively in the image below). You can use the touch-proof adapter that comes with the OpenBCI 32bit Board or OpenBCI 16-channel R&D Kit. Then connect your [ear clip electrodes](http://fri-fl-shop.com/product/td-430-silver-disc-electrode-ear-clip/) to these touch-proof adapters. These ear clip electrodes serve as the reference and bias (ground with common-mode noise rejection) for your EEG system.
 
 ![image](image_assets/REF_BIAS.jpg)
 
 ### Fasten the BOARD_COVER
 
+Now clip your board cover into place. If you've soldered any of the header rows onto your OpenBCI board, you'll need to use the BOARD_COVER_ADVANCED, as seen in the picture below. Otherwise, you can use the BOARD_COVER_STANDARD with the OpenBCI logo.
 
+![image](image_assets/BOARD_COVER_2.jpg)
 
 ### Adjust the Ultracortex for your head
 
+Put the Ultracortex Mark 3 onto your head and gradually tighten the electrode units until the electrodes are snuggly (but comfortably) against your scalp. If it is difficult to twist the OCTABOLT pieces by hand, you may need to use the OCTATOOL as seen in the gif below. 
 
+**Be careful** not to strain the electrode wires when twisting the electrode unit with the OCTATOOL, or you may separate the wire from the electrode itself. Turn the OCTABOLT until the wire is nearly taught, then reposition the wire and tool and twist again, as demonstrated in the gif.
+
+![image](image_assets/OCTATOOL.gif)
 
 ### Examine your brain waves!
 
+Now that you have your Ultracortex assembled and comfortably adjusted to your head size and shape, it's brain wave time!
 
+![image](image_assets/WEARING_IT.jpg)
+
+Check out the [Getting Started w/ OpenBCI tutorial](http://docs.openbci.com/tutorials/01-GettingStarted) to get up-and-running with the [OpenBCI Processing GUI](https://github.com/OpenBCI/OpenBCI_Processing).
+
+Below is a screenshot of what the GUI looks like when you've got your OpenBCI + Ultracortex (w/ 8 channels) hooked up! You can see a nice alpha (~11 hz) spike on the FFT Plot. 
+
+![image](image_assets/GUI.jpg)
+
+### Give Us Feedback!
+
+If you have questions, comments, or suggestions regarding the printing and/or assembly of the Ultracortex, we'd love to hear from you. Please submit issues to this repository or email us at [contact@openbci.com](mailto:contact@openbci.com). Or take some pictures of yourself wearing the Ultracortex and Tweet at us ([@OpenBCI](https://twitter.com/OpenBCI) & [@Ultracortex](https://twitter.com/Ultracortex))!
 
 
 
