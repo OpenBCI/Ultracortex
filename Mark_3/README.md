@@ -37,7 +37,8 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 ###Non-printed Parts:
  	
 * Additional Hardware:
-	* **Suggested Springs** listed below (**x21**)
+	* **Suggested Spring 1** listed below (**x21**)
+	* **Suggested Spring 2** listed below (**x5**)
 	* **Suggested Nuts** listed below (**x42**)
 	* **Suggested Bolts** listed below (**x21**)
 	* 1/4" #4 Drive Screw listed below (**x8**) for mounting the BOARD_HOLDER and OpenBCI Board
@@ -93,9 +94,15 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 ###Non-printed Parts:
 
 ####Suggested springs: 
-* (**21x**) [Century Spring Corp. Stock #: U-4](http://www.centuryspring.com/Store/globalresults.php)
+
+* Suggested Spring 1 (**x21**) — aka "Weak Spring" — [Century Spring Corp. Stock #: U-4](http://cad.centuryspring.com/db/service?domain=century&command=showProduct&category=compression&product=U-4) — this spring is not as strong as spring 2. We use it to mount the electrodes. The low "Rate" (1.3 lbs/in) makes it more forgiving and comfortable when holding the spikey electrode against your head. This process is described in more detail below (in the "Assembly Instructions" section).
 
 ![image](image_assets/SPRING.jpg)
+
+* Suggested Spring 2 (**x5**) — aka "Strong Spring" — [Century Spring Corp. Stock #: S-845](http://cad.centuryspring.com/db/service?domain=century&command=showProduct&category=compression&product=S-845) — this spring has a much stronger "Rate" (14 lb/in). This makes is ideal to act as a standoff at locations where you do not have a spikey electrode. This process is described in more detail below (in the "Assembly Instructions" section).
+
+![image](image_assets/spring2.jpg)
+
 
 ####Suggested nuts/bolts:
 
@@ -297,7 +304,7 @@ Press the SPRING_CASING against the ELECTRODE_HOLDER and hold for a few seconds 
 Now sand around the seam between the ELECTRODE_HOLDER and SPRING_CASING. Try your best to make the full cylindar as smooth as possible. You don't want it to catch on the inside of the OCTABOLT.
 ![image](image_assets/sand.JPG)
 
-Slide your spring and then the OCTABOLT around the wire as shown below.
+Slide a **Suggested Spring 1 (aka "Weak Spring")** and then the OCTABOLT around the wire as shown below.
 ![image](image_assets/fullPart.JPG)
 
 Snap the full electrode unit together, guiding the semi-spherical protrusions on the outside of the SPRING_CASING into the relief cuts of the OCTABOLT. 
@@ -337,11 +344,22 @@ Put the Ultracortex Mark 3 onto your head and gradually tighten the electrode un
 
 ![image](image_assets/OCTATOOL.gif)
 
+### Improve Comfort!
+
+To make the headset substantially more comfortable, assemble a few Electrode Units without a "spikey" electrode or any of the cabling as shown in the picture below. For this, **use the Suggested Spring 2 (aka "Strong Spring").**
+
+![image](image_assets/standoff.JPG)
+![image](image_assets/standoffAssembled.JPG)
+
+Then insert these spring-loaded standoffs along the midline of the headset and at other locations of your choosing (as indicated by the green circles in the image below). This will redistribute the weight of the headset, relieving the majority of the pressure at the "spikey" electrode locations.
+
+![image](image_assets/UCwStandoffs.JPG)
+
 ### Examine your brain waves!
 
 Now that you have your Ultracortex assembled and comfortably adjusted to your head size and shape, it's brain wave time!
 
-![image](image_assets/WEARING_IT.jpg)
+![image](image_assets/WEARING_IT2.jpg)
 
 Check out the [Getting Started w/ OpenBCI tutorial](http://docs.openbci.com/tutorials/01-GettingStarted) to get up-and-running with the [OpenBCI Processing GUI](https://github.com/OpenBCI/OpenBCI_Processing).
 
