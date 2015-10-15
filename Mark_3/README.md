@@ -353,7 +353,7 @@ To make the headset substantially more comfortable, assemble a few Electrode Uni
 
 Then insert these spring-loaded standoffs along the midline of the headset and at other locations of your choosing (as indicated by the green circles in the image below). This will redistribute the weight of the headset, relieving the majority of the pressure at the "spikey" electrode locations.
 
-![image](image_assets/UCwStandoffs.JPG)
+![image](image_assets/UCwStandoffs2.JPG)
 
 ### Examine your brain waves!
 
