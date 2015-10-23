@@ -1,0 +1,50 @@
+M3 hardware changes
+
+Insert thread diameter: 
+M3c- 0.75"
+M3d- 0.79"
+M3e- 0.85"
+M3f- 0.81"
+
+Insert overal width:
+M3c- 1.00"
+M3d- 1.08"
+M3e- 1.16"
+M3f- 1.12"
+
+Node socket opening:
+M3c- 0.98"
+M3d- 1.03"
+M3e- 1.17"
+M3f- 1.10"
+
+Node Socket inside:
+M3c- 1.02"
+M3d- 1.10"
+M3e- 1.22"
+M3f- 1.15"
+
+Node socket overall diameter:
+M3c- 1.40"
+M3d- 1.40"
+M3e- 1.50"
+M3f- 1.50"
+
+M3g changes:
+Electrode holder - Added nubs, reduced wall (increase spring clearance) by 0.01", flange at 0.3"
+
+Octabolt - reduce threads from 0.75mm to 0.735mm and add ensure taper. Bolt head reduced from 1" to 0.9". Spring socket now continues into head for another 0.1", increasing adjustable range.
+
+Insert - threads at 0.8", outer dia at 1" Octagon.
+
+Node - now at 1.25", Socket for 1" insert.
+
+Electrode Holder wall (Inside spring)
+M3f - 0.56"
+M3g - 0.55"
+
+Electrode Holder flange
+M3g - 0.30"
+
+Adjustment bolt inside
+0.65"
