@@ -206,7 +206,7 @@ Carefully, glue the FRAME_FRONT and FRAME_BACK together with your Cyanoacrylate 
 
 Use four #4 Drive Screws to mount the BOARD_HOLDER to the FRAME. Make sure that the orientation of the BOARD_HOLDER matches that of the pictures below:
 
-![image](image_assets/Board_Holder_Orientation.JPG)
+![image](image_assets/Board_Holder_Orientation.jpg)
 ![image](image_assets/boardMount.JPG)
 
 ### Insert OCTANUT pieces (x21) into frame
