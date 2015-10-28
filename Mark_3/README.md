@@ -43,7 +43,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 	* **Suggested Bolts** listed below (**x21**)
 	* 1/4" #4 Drive Screw listed below (**x8**) for mounting the BOARD_HOLDER and OpenBCI Board
 * Wiring (**x21**)
-	* We strip apart electrodes from the [Electrode Starter Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit)) or from the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
+	* We strip apart the [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes) or from the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
 * Dry electrodes by Florida Research Instruments
 	* (**18x**) Dry (spikey) electrodes to be installed in Ultracortex nodes with hair: [Disposable / Reusable Dry EEG Electrode ($0.60 each at 50+ quantity purchase) ](http://fri-fl-shop.com/product/tde-200/)
 	* (**3x**) Dry (non-spikey) electrodes to be installed in Ultracortex nodes without hair (forehead, for instance): [Disposable / Reusable Cup Wet/Dry EEG Electrode ($10.00 for 15) ](http://fri-fl-shop.com/product/disposable-reusable-dry-eeg-electrode-quantity-of-15-tde-200a1/)
@@ -106,7 +106,7 @@ We want to give a big thank you to [3D SYSTEMS](http://www.3dsystems.com/) for t
 
 ####Suggested nuts/bolts:
 
-We use small stainless steel screws and hex nuts to fasten the FRI electrodes (listed above) to the 3D-printed electrode mount components &  wiring that connects the electrodes back to the OpenBCI board. We used stripped [Electrode Starter Kit (ESK)](https://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit) electrodes as the cabling, by removing the gold cup with a wire cutter and looping the exposed wire around the screw between the two tightened hex nuts (as seen in the picture below).
+We use small stainless steel screws and hex nuts to fasten the FRI electrodes (listed above) to the 3D-printed electrode mount components &  wiring that connects the electrodes back to the OpenBCI board. We used stripped [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes) as the cabling, by removing the gold cup with a wire cutter and looping the exposed wire around the screw between the two tightened hex nuts (as seen in the picture below).
 
 * (**21x**) [Stainless Steel Pan Head Phillips Machine Screw, 2-56 Thread, 3/8" Length ($5.70 per pack of 50)](http://www.mcmaster.com/#91735a017/=xzahfj)
 * (**42x**) [Stainless Steel Hex Nut, 2-56 Thread Size, 3/16" Wide, 1/16" High](http://www.mcmaster.com/#91841a003/=xzahv0)
@@ -121,7 +121,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 
 ####Wiring
 
-* (**21x**) We strip apart electrodes from the [Electrode Starter Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-electrode-starter-kit)) or from the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
+* (**21x**) We strip apart the [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes)) or the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
 
 ![image](image_assets/WIRING.jpg)
 
@@ -175,14 +175,14 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 
 ## RECOMMENDED ASSEMBLY TOOLS
 
-* [Loctite Super Glue w/ Cyanoacrylate](http://www.amazon.com/Loctite-1365882-20-Gram-Bottle-Professional/dp/B004Y960MU/ref=sr_1_1?s=automotive&ie=UTF8&qid=1440204266&sr=1-1&keywords=loctite+cyanoacrylate&pebp=1440204267936&perid=0HJQ0FB9G4J9SEBQBVGA)
-* coarse flat & circular files (for removing support artifacts)
-* medium sand paper
-* exacto blade
-* philips head screw driver
-* wire cutters
-* needle-nose pliers
-* snippers
+1. [Loctite Super Glue w/ Cyanoacrylate](http://www.amazon.com/Loctite-1365882-20-Gram-Bottle-Professional/dp/B004Y960MU/ref=sr_1_1?s=automotive&ie=UTF8&qid=1440204266&sr=1-1&keywords=loctite+cyanoacrylate&pebp=1440204267936&perid=0HJQ0FB9G4J9SEBQBVGA)
+2. coarse flat & circular files (for removing support artifacts)
+3. medium sand paper
+4. exacto blade
+5. philips head screw driver
+6. wire cutters
+7. needle-nose pliers
+8. snippers
 
 ![image](image_assets/TOOLS.jpg)
 
@@ -191,21 +191,22 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 
 ### Remove residual support material & print flaws
 
-Use sand paper, a file, and snippers to clean your FRAME and other 3D-printed parts. It's especially important that you clean out the frame nodes where you will place your OCTANUT pieces.
+Use sand paper, a file, and snippers to clean your FRAME and other 3D-printed parts. The most important part of this process is that you thoroughly clean out the frames nodes where you will place your OCTANUT pieces.
 
 ![image](image_assets/cleanup1.JPG)
 ![image](image_assets/cleanup3.JPG)
 
 ### Glue the FRAME together
 
-Carefully, glue the FRAME_FRONT and FRAME_BACK together with your Cyanoacrylate super glue. Be sure to be precise; it's VERY difficult to pull the pieces apart once you've put them together.
+Carefully, glue the FRAME_FRONT and FRAME_BACK together with your Cyanoacrylate super glue. The best way to do this is to place both halves of the frame on a level surface and carefully bring them together. Be sure to be precise; it's VERY difficult to pull the pieces apart once you've put them together.
 
 ![image](image_assets/glueFrame.JPG)
 
 ### Mount the OpenBCI BOARD_HOLDER
 
-Use the #4 Drive Screws to mount the BOARD_HOLDER to the FRAME
+Use four #4 Drive Screws to mount the BOARD_HOLDER to the FRAME. Make sure that the orientation of the BOARD_HOLDER matches that of the pictures below:
 
+![image](image_assets/Board_Holder_Orientation.jpg)
 ![image](image_assets/boardMount.JPG)
 
 ### Insert OCTANUT pieces (x21) into frame
@@ -301,7 +302,7 @@ Put a thin line of super glue on the outer edge of the top of the ELECTRODE_HOLD
 Press the SPRING_CASING against the ELECTRODE_HOLDER and hold for a few seconds to make sure the two pieces are securely connected.
 ![image](image_assets/glueCasing.JPG)
 
-Now sand around the seam between the ELECTRODE_HOLDER and SPRING_CASING. Try your best to make the full cylindar as smooth as possible. You don't want it to catch on the inside of the OCTABOLT.
+Now sand around the seam between the ELECTRODE_HOLDER and SPRING_CASING. Try your best to make the full cylinder as smooth as possible. Take your time ensuring that the cylinder is as smooth as you can make it, since this will You don't want it to catch on the inside of the OCTABOLT.
 ![image](image_assets/sand.JPG)
 
 Slide a **Suggested Spring 1 (aka "Weak Spring")** and then the OCTABOLT around the wire as shown below.
@@ -356,6 +357,8 @@ Then insert these spring-loaded standoffs along the midline of the headset and a
 ![image](image_assets/UCwStandoffs2.JPG)
 
 ### Examine your brain waves!
+
+Place your UltraCortex on your head so that the back center node is roughly the same distance above your inion (bump on the back of your skull) as the front center node is above the bridge of your nose. As you place the UltraCortex on your head, the springs should adjust to the shape and size of your head. If they get stuck, remove the nodes and sand them down further so that they smoothly adjust to your head size.
 
 Now that you have your Ultracortex assembled and comfortably adjusted to your head size and shape, it's brain wave time!
 
