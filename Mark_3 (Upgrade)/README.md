@@ -206,11 +206,11 @@ Carefully, glue the FRAME_FRONT and FRAME_BACK together with your Cyanoacrylate 
 
 First, use a 1/16" drillbit to expand the holes on the Ultracortex frame. This will make it easier to screw the BOARD_HOLDER on the frame.
 
-![image](image_assets/drilling_frame.JPG)
+![image](image_assets/drilling_frame.jpg)
 
 Use four #4 Drive Screws to mount the BOARD_HOLDER to the FRAME. Make sure that the orientation of the BOARD_HOLDER matches that of the pictures below:
 
-![image](image_assets/boardMount.JPG)
+![image](image_assets/boardMount.jpg)
 
 ### Assemble the Comfort Nodes
 
@@ -218,36 +218,40 @@ In order to fit the OCTANUT pieces into the frame, you will need the Comfort Nod
 
 You will need the following pieces:
 -OCTABOLT
+
 -Strong Spring
+
 -ELECTRODE_HOLDER
+
 -Comfort insert
-![image](image_assets/comfortnodeparts.JPG)
+
+![image](image_assets/comfortnodeparts.jpg)
 
 First, put the comfort insert into front of the ELECTRODE_HOLDER.
-![image](image_assets/comfortinsert_electrodeholder.JPG)
+![image](image_assets/comfortinsert_electrodeholder.jpg)
 
 Next, insert the spring into the back of the ELECTRODE_HOLDER.
-![image](image_assets/spring_electrodeholder.JPG)
+![image](image_assets/spring_electrodeholder.jpg)
 
 
 Then, slide the OCTABOLT over the top:
-![image](image_assets/OCTABOLT_comfort1.JPG)
-![image](image_assets/OCTABOLT_comfort2.JPG)
+![image](image_assets/OCTABOLT_comfort1.jpg)
+![image](image_assets/OCTABOLT_comfort2.jpg)
 
 
 ### Insert OCTANUT pieces (x21) into frame
 
 **Note:** at each node, you must line up the cut in the OCTANUT with the indentation on the frame as indicated in the picture below.
 
-![image](image_assets/insertOCTANUT.JPG)
+![image](image_assets/insertOCTANUT.jpg)
 
 For each OCTANUT, insert the OCTABOLT so that the OCTANUT is held into the frame. Now you can glue the OCTANUT to the frame like this:
 
-![image](glue_octanut.jpg)
+![image](image_assets/glue_octanut.jpg)
 
 Your Ultracortex should now look like this:
 
-![image](image_assets/nodes_in.JPG)
+![image](image_assets/nodes_in.jpg)
 
 ### Embed OpenBCI into the Ultracortex
 
@@ -306,34 +310,34 @@ After you're done measuring, cutting, and stripping your wires, disconnect them 
 **Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort. Additionally, to increase comfort you can create electrode units without electrodes and the wires to place at various nodes around the frame. This will also help to distribute  pressure.
 
 These are the pieces that comprise one full electrode unit:
-![image](image_assets/electrode_hardware_parts.JPG)
+![image](image_assets/electrode_hardware_parts.jpg)
 
 First, slide a **Machine Screw (2-56 Thread, 3/4" Length)** through the FRI electrode and guide it into the ELECTRODE_HOLDER.
-![image](image_assets/insertscrew.JPG)
+![image](image_assets/insertscrew.jpg)
 
 Then, slide the screw and electrode into the ELECTRODE_HOLDER
-![image](image_assets/inserttrode.JPG)
+![image](image_assets/inserttrode.jpg)
 
 Next, twist a *Hex Nut (2-56 Thread Size, 3/16" Wide, 1/16" High)* onto the screw, securing the electrode to the holder.
-![image](image_assets/fastenNut.JPG)
+![image](image_assets/fastenNut.jpg)
 
 Next, twist the exposed metal of your wire so that it is tight and clean.
-![image](image_assets/twistWire.JPG)
+![image](image_assets/twistWire.jpg)
 
 This part is a little bit tricky! Wrap the exposed metal of your wire once around the remaining thread of the screw. You can use your finger nail to pinch the wire down against the nut, while wrapping. 
-![image](image_assets/twistWire2.JPG)
-![image](image_assets/twistWire3.JPG)
-![image](image_assets/twistWire4.JPG)
+![image](image_assets/twistWire2.jpg)
+![image](image_assets/twistWire3.jpg)
+![image](image_assets/twistWire4.jpg)
 
 
 Then, twist your second Hex Nut onto the screw, securing the wire between the two nuts. You can use wire cutters to firmly screw the nut into place.
-![image](image_assets/fastenNut2.JPG)
+![image](image_assets/fastenNut2.jpg)
 
 Slide a **Suggested Spring 1 (aka "Weak Spring")** and then the OCTABOLT around the wire as shown below.
-![image](image_assets/fullPart.JPG)
+![image](image_assets/fullPart.jpg)
 
 Snap the full electrode unit together, guiding the semi-spherical protrusions on the outside of the SPRING_CASING into the relief cuts of the OCTABOLT. 
-![image](image_assets/completedPart.JPG)
+![image](image_assets/completedPart.jpg)
 
 Voila! Spring-loaded electrode GIF!
 
