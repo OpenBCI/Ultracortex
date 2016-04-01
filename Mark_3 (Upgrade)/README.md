@@ -217,6 +217,7 @@ Use four #4 Drive Screws to mount the BOARD_HOLDER to the FRAME. Make sure that 
 In order to fit the OCTANUT pieces into the frame, you will need the Comfort Nodes in order to securely glue the OCTANUTs in place. 
 
 You will need the following pieces:
+
 -OCTABOLT
 
 -Strong Spring
@@ -375,10 +376,7 @@ Put the Ultracortex Mark 3 onto your head and gradually tighten the electrode un
 
 ### Improve Comfort!
 
-To make the headset substantially more comfortable, assemble a few Electrode Units without a "spikey" electrode or any of the cabling as shown in the picture below. For this, **use the Suggested Spring 2 (aka "Strong Spring").**
-
-![image](image_assets/standoff.JPG)
-![image](image_assets/standoffAssembled.JPG)
+To make the headset substantially more comfortable, assemble a few Electrode Units without a "spikey" electrode or any of the cabling as described above: [Assemble the comfort nodes](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3%20(Upgrade)#assemble-the-comfort-nodes)
 
 Then insert these spring-loaded standoffs along the midline of the headset and at other locations of your choosing (as indicated by the green circles in the image below). This will redistribute the weight of the headset, relieving the majority of the pressure at the "spikey" electrode locations.
 
