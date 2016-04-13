@@ -1,7 +1,7 @@
 #Ultracortex Mark 3 (UPGRADE)
 *Development Period: July 2015 — September 2015*
 
-![image](image_assets/Mark3_2.jpg)
+![image](image_assets/m3_upgrade_1000.jpg)
 
 ####Complete Ultracortex Mark 3 kits are [available for sale](http://openbci.myshopify.com/collections/frontpage/products/ultracortex-mark-3-eeg-headset-kit-assembly-required) in the OpenBCI Online Store!
 
