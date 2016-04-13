@@ -1,4 +1,4 @@
-#Ultracortex Mark 3
+#Ultracortex Mark 3 (UPGRADE)
 *Development Period: July 2015 — September 2015*
 
 ![image](image_assets/Mark3_2.jpg)
