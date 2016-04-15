@@ -19,18 +19,21 @@ Designers & Engineers:
 
 ###3D-printed Parts:
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
-	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
-	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
-* [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/MECH_PARTS)
-	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl)
-	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl)
-	* [SPRING_CASING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl)
-	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl)
-* [BOARD_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_HOLDER.stl) (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_HOLDER.stl)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3_UPGRADE/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
+	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/small/FRAME_FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/large/FRAME_FRONT_large.stl))
+	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/small/FRAME_BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/medium/FRAME_BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/large/FRAME_BACK_large.stl))
+* [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3_UPGRADE/STLs/MECH_PARTS)
+	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTANUT.stl)
+	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTABOLT.stl)
+	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTARING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTARING.stl)
+	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/E_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/E_HOLDER.stl)
+	* [WEB](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/WEB.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/WEB.stl)
+	* [Comfy Insert](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/Comfy_Insert.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/Comfy_Insert.stl)	
+* [BOARD_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_HOLDER.stl) (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_HOLDER.stl)
 * BOARD_COVER (**x1**) — choose STANDARD or ADVANCED
-	* [STANDARD](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_COVER_logo.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_COVER_logo.stl)
-	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl)
+	* [STANDARD](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl)
+	* [HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl)	
+	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_ADVANCED.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_ADVANCED.stl)
 
 ###Non-printed Parts:
  	
@@ -57,37 +60,40 @@ Designers & Engineers:
 
 ####(1x) FRAME
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
-	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/FRONT_large.stl))
-	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/small/BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/medium/BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/FRAME/large/BACK_large.stl))
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3_UPGRADE/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
+	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/small/FRAME_FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/large/FRAME_FRONT_large.stl))
+	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/small/FRAME_BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/medium/FRAME_BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/FRAME/large/FRAME_BACK_large.stl))
 
 ![image](image_assets/FRAME_parts.jpg) 
 
 ####(21x) MECH_PARTS
 
-* [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3/STLs/MECH_PARTS)
-	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTANUT.stl)
-	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/OCTABOLT.stl)
-	* [SPRING_CASING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/SPRING_CASING.stl)
-	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/MECH_PARTS/ELECTRODE_HOLDER.stl)
+[MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3_UPGRADE/STLs/MECH_PARTS)
+	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTANUT.stl)
+	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTABOLT.stl)
+	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTARING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/OCTARING.stl)
+	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/E_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/E_HOLDER.stl)
+	* [WEB](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/WEB.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/WEB.stl)
+	* [Comfy Insert](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/MECH_PARTS/Comfy_Insert.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/MECH_PARTS/Comfy_Insert.stl)	
 
 ![image](image_assets/MECH_PARTS.jpg) 
 
 ####(1x) BOARD_HOLDER
 
-* [BOARD_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_HOLDER.stl) (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_HOLDER.stl)
-
+* BOARD_HOLDER (**x1**)
+	* [BOARD_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl)	
 ![image](image_assets/BOARD_HOLDER.jpg) 
 
 ####(1x) BOARD_COVER
 
 * BOARD_COVER (**x1**) — choose STANDARD or ADVANCED
-	* [STANDARD](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_COVER_logo.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_COVER_logo.stl)
-	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3/STLs/BOARD_COVER_advancedVersion.stl)
+	* [STANDARD](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_STANDARD.stl)
+	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3_UPGRADE/STLs/BOARD_COVER_ADVANCED.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_3_UPGRADE/STLs/BOARD_COVER_ADVANCED.stl)
 
 ![image](image_assets/BOARD_COVER.jpg) 
 
-![image](image_assets/printedParts.jpg)
+![image](image_assets/printedparts.jpg)
+![image](bolts_screws_springs_trodes.jpg)
 
 ###Non-printed Parts:
 
@@ -372,17 +378,9 @@ Put the Ultracortex Mark 3 onto your head and gradually tighten the electrode un
 
 ![image](image_assets/OCTATOOL.gif)
 
-### Improve Comfort!
-
-To make the headset substantially more comfortable, assemble a few Electrode Units without a "spikey" electrode or any of the cabling as described above: [Assemble the comfort nodes](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_3%20(Upgrade)#assemble-the-comfort-nodes)
-
-Then insert these spring-loaded standoffs along the midline of the headset and at other locations of your choosing (as indicated by the green circles in the image below). This will redistribute the weight of the headset, relieving the majority of the pressure at the "spikey" electrode locations.
-
-![image](image_assets/UCwStandoffs2.JPG)
-
 ### Examine your brain waves!
 
-Place your UltraCortex on your head so that the back center node is roughly the same distance above your inion (bump on the back of your skull) as the front center node is above the bridge of your nose. As you place the UltraCortex on your head, the springs should adjust to the shape and size of your head. If they get stuck, remove the nodes and sand them down further so that they smoothly adjust to your head size.
+Place your UltraCortex on your head so that the back center node is roughly the same distance above your inion (bump on the back of your skull) as the front center node is above the bridge of your nose. As you place the UltraCortex on your head, the springs should adjust to the shape and size of your head.
 
 Now that you have your Ultracortex assembled and comfortably adjusted to your head size and shape, it's brain wave time!
 
