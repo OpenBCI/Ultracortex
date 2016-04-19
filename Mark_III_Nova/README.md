@@ -68,7 +68,7 @@ Designers & Engineers:
 
 ####(21x) MECH_PARTS
 
-[MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/MECH_PARTS)
+*[MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/MECH_PARTS)
 	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
 	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl)
 	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl)
