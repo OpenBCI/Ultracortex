@@ -64,19 +64,19 @@ Designers & Engineers:
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_BACK_large.stl))
 
-![image](image_assets/FRAME_parts.jpg) 
+![image](image_assets/FRAME_parts.jpg)
 
 ####(21x) MECH_PARTS
 
-*[MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/MECH_PARTS)
+* [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/MECH_PARTS)
 	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
-	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl)
-	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl)
-	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/E_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/E_HOLDER.stl)
-	* [WEB](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/WEB.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/WEB.stl)
-	* [Comfy Insert](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/Comfy_Insert.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/Comfy_Insert.stl)	
+	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl) (**x29**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTABOLT.stl)
+	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**x8**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl)
+	* [E_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/E_HOLDER.stl) (**x29**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/E_HOLDER.stl)
+	* [WEB](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/WEB.stl) (**x8**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/WEB.stl)
+	* [Comfy Insert](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/Comfy_Insert.stl) (**x13**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/Comfy_Insert.stl)	
 
-![image](image_assets/MECH_PARTS.jpg) 
+![image](image_assets/MechParts-Nova.jpg) 
 
 ####(1x) BOARD_HOLDER
 
