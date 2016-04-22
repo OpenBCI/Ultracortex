@@ -338,7 +338,7 @@ Next, twist a *Hex Nut (2-56 Thread Size, 3/16" Wide, 1/16" High)* onto the scre
 
 Next, twist the exposed metal of your wire so that it is tight and clean.
 
-![image](image_assets/twistWire.jpg)
+![image](image_assets/twistWire.JPG)
 
 This part is a little bit tricky! Wrap the exposed metal of your wire once around the remaining thread of the screw. You can use your finger nail to pinch the wire down against the nut, while wrapping. 
 
