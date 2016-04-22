@@ -346,12 +346,16 @@ This part is a little bit tricky! Wrap the exposed metal of your wire once aroun
 
 Then, twist your second Hex Nut onto the screw, securing the wire between the two nuts. You can use wire cutters to firmly screw the nut into place.
 
+
 ![image](image_assets/fastenNut2.jpg)
 
 Slide a **Suggested Spring 1 (aka "Weak Spring")** and then the OCTABOLT around the wire as shown below.
+
+
 ![image](image_assets/fullPart.jpg)
 
 Snap the full electrode unit together, guiding the semi-spherical protrusions on the outside of the SPRING_CASING into the relief cuts of the OCTABOLT. 
+
 
 ![image](image_assets/completedPart.jpg)
 
