@@ -264,6 +264,8 @@ Connect your ~500 mAh lithium ion rechargeable batter to the back of your 32bit 
 
 ![image](image_assets/embed_OpenBCI.jpg)
 
+![image](image_assets/screw_board.jpg)
+
 ### Identify electrode locations
 
 Before creating your electrode mounts, it's a good idea to think about where you may want to place the electrodes on the Ultracortex FRAME. The placement of the electrode may affect how long you make the wire between the electrode and where the OpenBCI is mounted, at the back of the frame.
@@ -309,7 +311,12 @@ As mentioned above, if you're using the default OpenBCI electrode configuration,
 After you're done measuring, cutting, and stripping your wires, disconnect them from the OpenBCI board. You will need the female header free so you can guide the springs and OCTANUT pieces into place in the following step. But remember which wire goes where!
 
 
-![image](image_assets/STRIP_WIRE.jpg)
+![image](image_assets/STRIP_WIRE1.jpg)
+
+![image](image_assets/STRIP_WIRE2.jpg)
+
+![image](image_assets/STRIP_WIRE3.jpg)
+
 
 ### Assemble electrode mounts (x8 or x16)
 **Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort. Additionally, to increase comfort you can create electrode units without electrodes and the wires to place at various nodes around the frame. This will also help to distribute  pressure.
@@ -318,6 +325,7 @@ These are the pieces that comprise one full electrode unit:
 ![image](image_assets/electrode_hardware_parts.jpg)
 
 First, slide a **Machine Screw (2-56 Thread, 3/4" Length)** through the FRI electrode and guide it into the ELECTRODE_HOLDER.
+
 ![image](image_assets/insertscrew.jpg)
 
 Then, slide the screw and electrode into the ELECTRODE_HOLDER
@@ -327,21 +335,24 @@ Next, twist a *Hex Nut (2-56 Thread Size, 3/16" Wide, 1/16" High)* onto the scre
 ![image](image_assets/fastenNut.jpg)
 
 Next, twist the exposed metal of your wire so that it is tight and clean.
+
 ![image](image_assets/twistWire.jpg)
 
 This part is a little bit tricky! Wrap the exposed metal of your wire once around the remaining thread of the screw. You can use your finger nail to pinch the wire down against the nut, while wrapping. 
-![image](image_assets/twistWire2.jpg)
+
 ![image](image_assets/twistWire3.jpg)
 ![image](image_assets/twistWire4.jpg)
 
 
 Then, twist your second Hex Nut onto the screw, securing the wire between the two nuts. You can use wire cutters to firmly screw the nut into place.
+
 ![image](image_assets/fastenNut2.jpg)
 
 Slide a **Suggested Spring 1 (aka "Weak Spring")** and then the OCTABOLT around the wire as shown below.
 ![image](image_assets/fullPart.jpg)
 
 Snap the full electrode unit together, guiding the semi-spherical protrusions on the outside of the SPRING_CASING into the relief cuts of the OCTABOLT. 
+
 ![image](image_assets/completedPart.jpg)
 
 Voila! Spring-loaded electrode GIF!
