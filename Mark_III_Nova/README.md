@@ -92,8 +92,8 @@ Designers & Engineers:
 
 ![image](image_assets/BOARD_COVER.jpg) 
 
-![image](image_assets/printedparts.jpg)
-![image](bolts_screws_springs_trodes.jpg)
+![image](image_assets/printedParts.jpg)
+![image](image_assets/bolts_screws_springs_trodes.jpg)
 
 ###Non-printed Parts:
 
