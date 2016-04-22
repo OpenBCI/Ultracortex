@@ -317,6 +317,8 @@ After you're done measuring, cutting, and stripping your wires, disconnect them 
 
 ![image](image_assets/STRIP_WIRE3.jpg)
 
+![image](image_assets/STRIP_WIRE4.jpg)
+
 
 ### Assemble electrode mounts (x8 or x16)
 **Note:** repeat the following steps as many times as necessary, depending upon your OpenBCI setup. In general, using more electrodes will distribute the downward scalp pressure, increasing comfort. Additionally, to increase comfort you can create electrode units without electrodes and the wires to place at various nodes around the frame. This will also help to distribute  pressure.
