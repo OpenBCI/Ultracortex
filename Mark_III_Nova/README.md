@@ -42,7 +42,7 @@ Designers & Engineers:
 	* **Suggested Spring 2** listed below (**x5**)
 	* **Suggested Nuts** listed below (**x42**)
 	* **Suggested Bolts** listed below (**x21**)
-	* 3/4" #4 Drive Screw listed below (**x8**) for mounting the BOARD_HOLDER and OpenBCI Board
+	* 1/4" #4 Drive Screw listed below (**x8**) for mounting the BOARD_HOLDER and OpenBCI Board
 * Wiring (**x21**)
 	* We strip apart the [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes) or from the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
 * Dry electrodes by Florida Research Instruments
