@@ -390,11 +390,13 @@ Now clip your board cover into place. If you've soldered any of the header rows 
 
 ## Supernova Add-Ons
 
-### 3D Printed Parts
+### Parts
 
 ![image](image_assets/supernova_parts.jpg)
 
 To add the web extensions to your Supernova, use the following parts:
+
+**3D Printed Parts**
 
 * [Quadstar](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl)
 * [Octaring](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
@@ -414,8 +416,8 @@ Take your QUADSTAR and stretch it so that it fits over the OCTARING
 Using zip ties, tie down the corners of the QUADSTAR onto the frame of your ULTRACORTEX. You should be using four zip ties per QUADSTAR. For QUADSTARS that are next to each other, re-use the same zip tie to tie them both down to the frame. NOTE: Tie the QUADSTARS down loosely at first in order to ensure that they are all centered while tied down to the frame. Once all of the QUADSTARS are tied loosely to the frame, tighten them to secure them to the frame.
 
 ![image](image_assets/tiedown1.jpg)
-![image](image_assets/tiedown2.jpg)
 ![image](image_assets/tiedown3.jpg)
+![image](image_assets/tiedown2.jpg)
 ![image](image_assets/tiedown_complete.jpg)
 
 ### Cut Zip Ties
