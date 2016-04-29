@@ -387,6 +387,53 @@ Now clip your board cover into place. If you've soldered any of the header rows 
 
 ![image](image_assets/BOARD_COVER_2.jpg)
 
+
+## Supernova Add-Ons
+
+### 3D Printed Parts
+
+![image](image_assets/supernova_parts.jpg)
+
+To add the web extensions to your Supernova, use the following parts:
+
+* [Quadstar](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl)
+* [Octaring](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
+
+**Non-3D Printed Parts**
+
+* Zip ties
+
+### Stretch QUADSTAR over OCTARING
+
+Take your QUADSTAR and stretch it so that it fits over the OCTARING
+![image](image_assets/stretch_quadstar1.jpg)
+![image](image_assets/stretch_quadstar2.jpg)
+
+### Zip Tie QUADSTAR onto frame
+
+Using zip ties, tie down the corners of the QUADSTAR onto the frame of your ULTRACORTEX. You should be using four zip ties per QUADSTAR. For QUADSTARS that are next to each other, re-use the same zip tie to tie them both down to the frame. NOTE: Tie the QUADSTARS down loosely at first in order to ensure that they are all centered while tied down to the frame. Once all of the QUADSTARS are tied loosely to the frame, tighten them to secure them to the frame.
+
+![image](image_assets/tiedown1.jpg)
+![image](image_assets/tiedown2.jpg)
+![image](image_assets/tiedown3.jpg)
+![image](image_assets/tiedown_complete.jpg)
+
+### Cut Zip Ties
+
+Turn the ULTRACORTEX over and snip off all of the loose ends of the zip ties.
+
+![image](image_assets/snip_zipties.jpg)
+
+### Insert Comfort Nodes
+
+Next, screw a comfort node into each of the 8 QUADSTARS.
+
+![image](image_assets/screw_comforts.jpg)
+
+
+### Supernova Assembly Complete!
+![image](image_assets/supernova_complete.jpg)
+
 ### Adjust the Ultracortex for your head
 
 Put the Ultracortex Mark 3 onto your head and gradually tighten the electrode units until the electrodes are snuggly (but comfortably) against your scalp. If it is difficult to twist the OCTABOLT pieces by hand, you may need to use the OCTATOOL as seen in the gif below. 
