@@ -379,6 +379,14 @@ Now that all of your electrode units are connected to your Ultracortex frame, re
 
 Next, connect two touch-proof adapter cables to SRB2 and bottom BIAS pin (white and black respectively in the image below). You can use the touch-proof adapter that comes with the OpenBCI 32bit Board or OpenBCI 16-channel R&D Kit. Then connect your [ear clip electrodes](http://fri-fl-shop.com/product/td-430-silver-disc-electrode-ear-clip/) to these touch-proof adapters. These ear clip electrodes serve as the reference and bias (ground with common-mode noise rejection) for your EEG system.
 
+Alternatively, cut the earclip wire to about a foot long. Cut the touch-proof adapter wire to 2 inches long. Solder these two wires together, and shrink wrap them or wrap them in electrical tape.
+
+![image](image_assets/soldering.jpg)
+
+For the 16 channel board, cut and solder two wires to the ear clip wire as shown:
+
+![image](image_assets/soldering_16.jpg)
+
 ![image](image_assets/REF_BIAS.jpg)
 
 ### Fasten the BOARD_COVER
