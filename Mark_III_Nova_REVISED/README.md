@@ -1,4 +1,5 @@
- #Ultracortex Mark III "Nova" & "Supernova"
+#Ultracortex Mark III "Nova" & "Supernova"
+
 *Development Period: February 2016 — April 2016*
 
 ![image](image_assets/m3_upgrade_1000.jpg)
@@ -246,11 +247,11 @@ Then, slide the OCTABOLT over the top:
 
 ### Insert OCTANUT pieces (x21) into frame
 
-**Note:** at each node, you must line up the cut in the OCTANUT with the indentation on the frame as indicated in the picture below.
+**Note:** Before glueing the OCTANUT into the frame ensure, that it fits properly into the frame without glue.
 
 ![image](image_assets/insertOCTANUT.jpg)
 
-For each OCTANUT, insert the OCTABOLT so that the OCTANUT is held into the frame. Now you can glue the OCTANUT to the frame like this:
+For each OCTANUT, line the inner rim of frame with glue. Then insert the OCTANUT so that it is flush with the frame.
 
 ![image](image_assets/glue_octanut.jpg)
 
@@ -276,14 +277,14 @@ The images below indicates the default 10-20 electrode locations that the OpenBC
 
 For the remainder of this tutorial, the blue nodes on the 10-20 system diagram (channels 1-8 of the OpenBCI default settings) will be used. The channel to 10-20 system correlations are as follows:
 
-* Channel 1 - Fp1
-* Channel 2 - Fp2
-* Channel 3 - C3
-* Channel 4 - C4
-* Channel 5 - P7
-* Channel 6 - P8
-* Channel 7 - O1
-* Channel 8 - O2
+* Channel 1(N1P) - Fp1
+* Channel 2(N2P) - Fp2
+* Channel 3(N3P) - C3
+* Channel 4(N4P) - C4
+* Channel 5(N5P) - P7
+* Channel 6(N6P) - P8
+* Channel 7(N7P) - O1
+* Channel 8(N8P) - O2
 
 ![image](image_assets/1020.jpg)
 
@@ -299,14 +300,14 @@ For each wire, measure the distance between where it is connected to the OpenBCI
 
 As mentioned above, if you're using the default OpenBCI electrode configuration, cut the wires so that they terminate at the following nodes:
 
-* Channel 1 - Fp1
-* Channel 2 - Fp2
-* Channel 3 - C3
-* Channel 4 - C4
-* Channel 5 - P7
-* Channel 6 - P8
-* Channel 7 - O1
-* Channel 8 - O2
+* Channel 1(N1P) - Fp1
+* Channel 2(N2P) - Fp2
+* Channel 3(N3P) - C3
+* Channel 4(N4P) - C4
+* Channel 5(N5P) - P7
+* Channel 6(N6P) - P8
+* Channel 7(N7P) - O1
+* Channel 8(N8P) - O2
 
 After you're done measuring, cutting, and stripping your wires, disconnect them from the OpenBCI board. You will need the female header free so you can guide the springs and OCTANUT pieces into place in the following step. But remember which wire goes where!
 
@@ -326,7 +327,7 @@ After you're done measuring, cutting, and stripping your wires, disconnect them 
 These are the pieces that comprise one full electrode unit:
 ![image](image_assets/electrode_hardware_parts.jpg)
 
-First, slide a **Machine Screw (2-56 Thread, 3/4" Length)** through the FRI electrode and guide it into the ELECTRODE_HOLDER.
+First, slide a **Machine Screw (2-56 Thread, 3/4" Length)** through the FRI electrode and guide it into the ELECTRODE_HOLDER. For channel 1 and channel 2 you may use flat electrodes since these elctrodes will be on your forehead where there is no hair.
 
 ![image](image_assets/insertscrew.jpg)
 
