@@ -1,6 +1,6 @@
-#Ultracortex Mark III "Nova" & "Supernova"
+#Ultracortex Mark III "Nova" & "Supernova" (REVISED)
 
-*Development Period: February 2016 — April 2016*
+*Development Period: June 2016*
 
 ![image](image_assets/m3_upgrade_1000.jpg)
 
