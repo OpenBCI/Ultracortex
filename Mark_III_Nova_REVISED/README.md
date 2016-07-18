@@ -20,8 +20,8 @@ Designers & Engineers:
 
 ###3D-printed Parts:
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
-	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_FRONT_large.stl))
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
+	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/FRAME/small/SMALL_FRONT-M3_Nova_Revised.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_BACK_large.stl))
 * [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/MECH_PARTS)
 	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
