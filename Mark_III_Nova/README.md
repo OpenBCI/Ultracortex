@@ -1,5 +1,6 @@
 #Ultracortex Mark III "Nova" & "Supernova"
 *Development Period: February 2016 — April 2016*
+
 **Note:** Mark III has been depricated by the newer model [Mark III REVISED](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED)
 
 ![image](image_assets/m3_upgrade_1000.jpg)
