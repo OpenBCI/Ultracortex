@@ -1,4 +1,7 @@
 # ultracortex
+
+**Note:** Mark 1 has been depricated by the newer model [Mark III REVISED](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED)
+
 Files related to the ultracortex, the 3D-printable EEG headset compatible with OpenBCI (currently under development).
 
 The electrodes seen in the photos here are dry electrodes from Florida Research Instruments (FRI), found here: http://fri-fl-shop.com/product/package-of-15-disposable-reusable-dry-electrodes-and-10-disposablereusable-eeg-cup-electrodes-and-5-leads-red-white-green-black-brown/
