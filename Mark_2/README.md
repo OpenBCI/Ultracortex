@@ -1,5 +1,7 @@
 # Ultracortex (Mark 2)
 
+**Note:** Mark 2 has been depricated by the newer model [Mark III REVISED](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED)
+
 ![image](Assets/UC_back.JPG)
 
 ## Print Settings (verified)
