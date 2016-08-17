@@ -175,7 +175,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 	* Number of Shells: 3
 	* Speed while extruding: 50-70% (slow it down if possible; these parts are detailed)
 * QUAD_STAR
- 	* Material: NinjaFlex or SemiFlex
+ 	* Material: [NinjaFlex](https://ninjatek.com/products/filaments/ninjaflex/) or [SemiFlex](https://ninjatek.com/products/filaments/semiflex/)
 	* Supports: NO
 	* Raft: NO
 	* Infill: 20%
