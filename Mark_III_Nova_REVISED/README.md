@@ -174,7 +174,7 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
 	* Layer Height: 0.2mm
 	* Number of Shells: 3
 	* Speed while extruding: 50-70% (slow it down if possible; these parts are detailed)
- * QUAD_STAR
+* QUAD_STAR
  	* Material: NinjaFlex or SemiFlex
 	* Supports: NO
 	* Raft: NO
