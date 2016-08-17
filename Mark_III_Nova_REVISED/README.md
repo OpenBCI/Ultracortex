@@ -413,6 +413,8 @@ To add the QUADSTAR extensions to your Supernova, use the following parts:
 
 **3D Printed Parts**
 
+**Note: ** the QUAD_STAR should be printed in a stretchy filament (like NinjaFlex or SemiFlex), as listed above in the Suggested Print Settings section.
+
 * [Quadstar](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl)
 * [Octaring](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova/STLs/MECH_PARTS/OCTARING.stl) (**8X**) -- [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/OCTANUT.stl)
 
