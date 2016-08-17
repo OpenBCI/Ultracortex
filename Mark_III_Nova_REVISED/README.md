@@ -178,11 +178,11 @@ We use small stainless steel screws and hex nuts to fasten the FRI electrodes (l
  	* Material: [NinjaFlex](https://ninjatek.com/products/filaments/ninjaflex/) or [SemiFlex](https://ninjatek.com/products/filaments/semiflex/)
 	* Supports: NO
 	* Raft: NO
-	* Infill: 20%
-	* Layer Height: 0.3mm
-	* Number of Shells: 3
+	* Infill: 10%
+	* Layer Height: 0.27mm (or 0.3mm)
+	* Number of Shells: 2
 	* Speed while extruding: 30-50% (slow it down if possible; these parts are detailed)
-	* Print Temperature: 230-250C (we get more consistant prints when printing at higher temperatures)
+	* Print Temperature: 230-250C (we get more consistant prints when printing at higher temperatures, but it gets stringy)
 
 ## RECOMMENDED ASSEMBLY TOOLS
 
