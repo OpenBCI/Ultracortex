@@ -1,0 +1,70 @@
+OpenBCI Ultracortex Headset Development Kit, Version 0.5
+
+Introduction
+  This collection of files represents an expanded selection of parts and accessories for the Ultracortex M4. It includes the M4 headset in five sizes, the components used to generate the headsets, the electrode mounting hardware, and OpenBCI board case. Most files are in STL format. When possible solid models have been provided in STEP format. 3D curves (for the headset frame) are provided in IGES format.
+
+The M4 headset
+  The overall shape of the M4 is based on an average of many heads to create a generic fit. The headset frame is offset from the average to hold the electrode nodes above the scalp. The offset is varied to create different sizes. Fine adjustment for head shape is made using adjustment bolts ("Octabolts") with spring loaded electrodes and "comfort" bolts with soft feet distribute pressure around the head. The OpenBCI board is mounted on the back, and the result is a wireless, portable, dry-electrode EEG system that can quickly be taken on and off or adjusted for different users.
+
+Contents
+  The medium size frame Consists of a 7mm x 9mm elliptical frame offset 18mm from the Meta Dome surface. An Octabolt assembly at 50 of it's ~25mm adjustment range will place the electrode on that surface withe spring compressed 50% (approx. 9mm). The small and large headset are offset 10mm inward and 10mm outward. This creates full coverage for the adjustement ranges. For example, adjusting a bolt all the way outward in the medium frame brings it to the same offset as that bolt adjusted all the way inward on the large headset. There is extra margin in the thread range, and the spring add additional margin. In this kit we have also provide intermediate sizes between the other sizes (-5mm Medium/Small and +5mm Medium/Large), so that heads with unusual proportions are better accomodated.
+
+Each headset frame folder contains:
+ -Metadome_(+offset)_centered.STL - The Frame nodes are located at each vertx of this file
+ -(Part#)_(Size)_Ultracortex.STL - The complete frame mesh in one piece
+ -(Part#)_(Size) Node Array.STL - The Frame nodes at there actual M4 locations
+ -(Part#)_(Size) Mount point.STL - The mount points, used to build accessories to attach to M4
+ -(Part#)_(Size) Cut Array.STL - Mesh used to cut awat the frame to accomodate the nodes
+ -(Part#)_(Size)_Curves (+Offset).IGS - 3D curves of the Frame. The ellipse is placed 1mm above this so the frame aligns with the edges instead of the center (to compensate for curvature)
+ -(Part#)_frame_(offset).PLY - The whole frame without nodes (7mm wide x 9mm high cross section)
+
+M4 Accessory mount template
+  The mounting system uses 8 groups of mounting holes, which are the same in all sizes of headset, however the location of the groups shift to match the frame. The groups are planar so they can be fabricated more easily, but be aware of collisions with nearby geometry (this changes on each size of headset).
+  Only the medium size mounting point arrangement is provided as a solid model. For the other sizes, the groups are offset with values listed in the text file (The STL version is in each headset folder).
+  The Included PNG images show the location of each group, and dimensions between the holes. Add these holes to a planar accessory plate to make it mountable. Accessories are attached with #6 self tapping screws.  A rubber washer is recommended at each screw to offset the accessory plate to prevent damage and avoid shape collision.
+
+M4 Hardware
+ -Octabolt - The adjustment bolt which holds the spring and Eholder. This "integer screw" turns in discrete steps to remain in position. Print the Octabolt with the top of the head obn the build surface.
+ -Eholder - Holds the electrode and wire lead inside the Octabolt.
+ -Node - Copies of this model are place around the frame to hold the inserts that hold the Octabolt. The coordinates of this models are aligned with the whole elecrtode assembly, not the vertices of the offset metadome surface. The node will have to be transformed appropriately for your frame.
+ -Insert -  The inserts have threads to hold the Octabolt. They are printed separately to compenstate for the lack of precision if printed out-of-plane (like the nodes along with the frame).
+
+Extended Parts
+  This folder contains long and short Octabolts, and an extra long Eholder, for users whose head shape places one or more nodes at an unusual distance.
+  Octamount - This accessory allows you to mount parts to any empty node. The hole spacing is currently at 48.5mm on center to mathc the board case, but can be adjusted to mount things like battery cases.
+
+OpenBCI Board Case
+  The "Lightcase" version 19 is the version released with the M4. It was modified as a mesh so no solid is available. In version 20, the changes are reflected in the solid model, and other small changes have been made. This version also includes the snap-on base (not included in the shipped M4) which allows rapid attachment and detachment of the OpenBCI board case.
+
+
+
+
+
+Updates - Development kit Version 0.5
+
+-Robust Case, v22 - The new case has thicker wall and stiffer locking tabs with more "bite". The parts are harder to separate, but prevent the case from opening accidently. The cover has had it "material economy" cutouts removed to prioritize strength over cost. The cover and base have an additional tab for easier removal. The Base is taller to clear the Octabolts on smaller frame sizes. The Base screw recess is deeper make the screw flush with the bottom of the frame (to remove the indent that was used on the frame previously).
+
+-Deep Case Frame - An extra 5mm in this case frame allows a shrink-wrapped AAA battery pack to fit inside the case.
+
+-Octamount6d Battery Tray - Octamount now has a matching tray that holds the included 4xAA battery box. The tray allows use of the 4xAA battery box included with M4, for those who want lots of power and don't mind the weight. The tray allows the Electrode wire to pass through, so the node may still be used if needed.
+
+-Octamount6c - This Octamount is wider to accomodate the tray (so it does not match the case as nicely) and has additional holes matching a random selection of battery cases coming from China via ebay. In addition to the standard 48.5mm spaced holes that match the Case, there are holes at spacings of 35mm (4xAAA), 44mm (4xAA), and 57.5mm (current included M4 4xAA case). Due to random hole placing and poor design of cheap imported battery cases (like holes placed against the side wall with no recess) these holes may need to be modified to work properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This collection is meant to be distributed in its unmodified form, with this text included. Please credit OpenBCI with proper links when releasing any derivative works.
+
+www.openbci.com
+www.github.com/OpenBCI
+
+The OpenBCI Ultracortex Mark IV EEG headset was design by Aaron Trocola, Conor Russomano, Joel Murphy, and Aaron Lehr.

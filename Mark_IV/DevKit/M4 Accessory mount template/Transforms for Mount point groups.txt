@@ -1,0 +1,37 @@
+Transforms for M4 Mount point groups
+
+Medium to Medium/small
+Front plate: -2.5z, -5y
+FrontLeft plate: -4.5x, +1y, -1z
+Left Temple -3x, +4y, -2z
+Right Temple 3x, +4y, -2z
+BackLeft plate: -4.5x, +1y, -1z
+Back -4.5z, -2y
+FrontRight plate: 4.5x, +1y
+FrontBack plate: 4.5x, +1y
+
+Medium to Medium/large
+Front plate: -4.5y, +1.5z
+FrontLeft plate: +4.5x, -1y, +1z
+Back Left plate: +4.5x, +1y, +1z
+Back +4.5y, +2z
+BaclRight plate: -4.5x, +1y, +1z
+Right Temple: -2.5x, -3y, +1z
+Left Temple:
+
+Medium/Small to Small (-5 to -10mm offset from regular metadome)
+Backleft -4.5x, -1.5y, -1z
+Left temple -1x, 4.5y, -1.5z rotate around barycenter 10 degrees y, 5 degrees z
+Backright -5, -1.5, -1   -4.5x, -1.5y, -1z
+Right temple -.5, 7, -2  center on geometry rotate 7-y -7z then .6 -.1 .15
+Front left -5x, -2y, -1z
+Front 0x, 4.5y, 03z
+
+Medium/large to Large (+5 to +10mm offset from regular metadome)
+back 0x, 4.5y, 2z
+Front 0x, -5y, 3z
+FrontLeft -4.5x, -1.5y, 0.5z
+Front right 4.5x, -1.5y, 0.5z
+Right Temple -2.5x, -4y, 1.5z
+Left temple 2.5x, -4y, 1.5z
+Back right -4.5x, 1.5y, 1z
