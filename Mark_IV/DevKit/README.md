@@ -1,6 +1,6 @@
 # Ultracortex Mark IV Development Kit, Version 0.5
 
-You can browse through the DevKit files here, but we recommend downloading [this archive](https://www.dropbox.com/s/7g9to9lef9cjcmc/OpenBCI%20Ultracortex%20M4_Dev%20Kit_ver0.5.zip?dl=0). Downloading STL parts using the "right-click, Save-as" function **does not work** in Github, it only downloads an HTML to view the 3D part, not the part itself (You must click the name to go to the preview page, then "right-click, save-as" on the "Download" button. 
+Download [this archive](https://www.dropbox.com/s/7g9to9lef9cjcmc/OpenBCI%20Ultracortex%20M4_Dev%20Kit_ver0.5.zip?dl=0) to work with the Dev Kit. You can browse through the DevKit files here, but downloading STL parts using the "right-click, Save-as" function **does not work** in Github, it only downloads an HTML to view the 3D part. To download a part from GitHub, you must click the name to go to the preview page, then "right-click, save-as" on the "Download" button. 
 In [this blog post](https://openbci.com/community/m4-accessory-mounting-system/), you can read about some of the additional features available in the Ultracortex Mark IV Dev Kit.
 
 ## Introduction
